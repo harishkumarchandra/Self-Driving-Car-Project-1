@@ -5,12 +5,15 @@
 [//]: # (Image References)
 
 [image1]: ./examples/grayscale.jpg "Grayscale"
+[image2]: ./test_images/solidWhiteRight.jpg
 
 ---
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. Pipeline Discription:
+
+![alt text][image2]
 
 My pipeline consisted of 5 steps. First, I converted the images to grayscale, then I .... 
 
